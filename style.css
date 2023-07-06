@@ -1,0 +1,18 @@
+.bg-jpg1 {
+    background-color: #000;
+    background-size: cover;
+    height: 30rem;
+    background-image: url(/chicago.jpg);
+}
+.bg-jpg2 {
+    background-color: #000;
+    background-size: cover;
+    height: 30rem;
+    background-image: url(/la.jpg);
+}
+.bg-jpg3 {
+    background-color: #000;
+    background-size: cover;
+    height: 30rem;
+    background-image: url(/ny.jpg);
+}
